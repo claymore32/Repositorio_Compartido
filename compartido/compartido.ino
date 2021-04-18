@@ -8,10 +8,13 @@ void loop() {
 }
 
 void task_sebasJ(){
+  Serial.println("huehuehuhuehuehue");
+
   
 }
 
 void task_sebasC(){
   Serial.println("Hola");
+
   delay(3000);
 }
